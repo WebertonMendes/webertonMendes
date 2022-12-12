@@ -1,10 +1,10 @@
-### Hi!!! Eu sou Wéberton Mendes, mais conhecido como Betinho, rsrs... 🤓
+### Olá! Eu sou Wéberton, mas muitos me chamar pelo apelido "Betinho" rsrs... 🤓
 
 - 👨‍👩‍👧‍👦 &nbsp; Família é amor, e sem amor ninguém está completo!
-- 🧑‍💻 &nbsp; Trabalho na área de TI (Infra/ Suporte) há 6 anos e atualmente pretendo migrar para área de desenvolvimento...
-- 🧑‍🏫 &nbsp; Meus estudos hoje estão sendo focados em Javascript (NodeJS, React, Typescript)...
-- 🏅 &nbsp; Graduado em Redes de Computadores, e atualmente estou cursando Licenciatura em Computação pelo IFTM...
-- 💻 &nbsp; Alguns cursos legais que participei: 
+- 🧑‍💻 &nbsp; Trabalhei na área de TI com Infra/Suporte durante 8 anos, e atualmente trabalho na área de desenvolvimento web.
+- 🧑‍🏫 &nbsp; Tenho conhecimentos na stack Javascript (NodeJS, React, Typescript, NestJS), e estou inciando meus estudos em Java e VueJS.
+- 🏅 &nbsp; Graduado em Redes de Computadores.
+- 💻 &nbsp; Alguns cursos legais que participei:
   - Banco de Dados e SQL (Udemy)
   - Programador Web (IFTM)
   - Lanchbase (Rocketseat)
