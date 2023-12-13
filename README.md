@@ -1,15 +1,17 @@
-### Olá! Eu sou Wéberton, mas muitos me chamar pelo apelido "Betinho" rsrs... 🤓
+### Olá! Eu sou Wéberton Mendes! 🤓
 
-- 👨‍👩‍👧‍👦 &nbsp; Família é amor, e sem amor ninguém está completo!
-- 🧑‍💻 &nbsp; Trabalhei na área de TI com Infra/Suporte durante 8 anos, e atualmente trabalho na área de desenvolvimento web.
-- 🧑‍🏫 &nbsp; Tenho conhecimentos na stack Javascript (NodeJS, React, Typescript, NestJS, ExpressJS), e estou inciando meus estudos em Java e VueJS.
+- 🧑‍💻 &nbsp; Trabalhei na área de TI com Infra e Suporte durante 7 anos, e atualmente estou atuando na área de desenvolvimento web.
+- 🧑‍🏫 &nbsp; Tenho conhecimentos na stack Javascript (NodeJS, Typescript, React, VueJS, NestJS, ExpressJS) e Java (Spring Boot).
 - 🏅 &nbsp; Graduado em Redes de Computadores.
+- 🎓 &nbsp; Graduando em Engenharia de Software.
 - 💻 &nbsp; Alguns cursos e bootcamps legais que participei:
   - Banco de Dados e SQL (Udemy)
   - Programador Web (IFTM)
   - Lanchbase (Rocketseat)
   - Ignite NodeJS (Rocketseat)
-- 🎸 &nbsp; Baixista nas horas vagas, amo uma boa música, rsrs...
+  - Formação VueJS 3 (Alura)
+  - Formação Java e Spring Boot (Alura)
+- 🎸 &nbsp; Baixista nas horas vagas, amo uma boa música. 🤘
 - ⚽️ &nbsp; Apaixonado por futebol e por uma resenha com os amigos...
 <br>
 <div>
