@@ -1,6 +1,6 @@
 ### Olá! Eu sou Wéberton Mendes! 🤓
 
-- 🧑‍💻 &nbsp; Trabalhei na área de TI com Infra e Suporte durante 7 anos, e atualmente estou atuando na área de desenvolvimento web.
+- 🧑‍💻 &nbsp; Trabalhei na área de TI com Infra e Suporte durante 7 anos, e atualmente atuo na área de desenvolvimento web.
 - 🧑‍🏫 &nbsp; Tenho conhecimentos e já atuei em projetos com as seguintes stacks:
   - Javascript, Typescript, NodeJS, React, VueJS, NestJS, Express.
   - Java, Spring Boot.
@@ -13,6 +13,7 @@
   - Ignite NodeJS (Rocketseat)
   - Formação VueJS 3 (Alura)
   - Formação Java e Spring Boot (Alura)
+  - Formação Mensageria com Apache Kafka (Alura)
 - 🤸‍♂️ &nbsp; Hobbies:
   - 🎸 &nbsp; Baixista nas horas vagas, amo uma boa música. 🤘
   - ⚽️ &nbsp; Apaixonado por futebol e por uma resenha com os amigos...
